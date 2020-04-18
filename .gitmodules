@@ -1,0 +1,3 @@
+[submodule "thirdy/iot-device-sdk-embedded-c"]
+	path = thirdy/iot-device-sdk-embedded-c
+	url = https://github.com/toymak3r/iot-device-sdk-embedded-c.git
